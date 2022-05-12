@@ -1,16 +1,12 @@
-# speak_up
+# Speak Up
+A basic app for mute people so they can add custom texts and show it to others, supports translating to other languages.
+## To-Do List
+:white_check_mark: Basic Functionality </br>
+:o: Text To Speech </br>
+:o: Focus Only On Text
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/36418182/168118787-7ee14e3e-1616-4772-abe5-3ea38e429d87.png" width="25%" height="25%">
+<img src="https://user-images.githubusercontent.com/36418182/168118795-91e6ddc3-5d89-41fc-bb12-5c9a00401800.png" width="25%" height="25%">
+<img src="https://user-images.githubusercontent.com/36418182/168118799-7b9cfa69-e179-465d-9ffd-a88f754ef925.png" width="25%" height="25%">
